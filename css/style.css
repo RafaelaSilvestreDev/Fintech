@@ -1,0 +1,70 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+}
+h6 {
+    font-weight: 300;
+    font-size: small;
+    font-style: italic;
+    margin: 10px 200px;
+    text-align: left;
+    background-color: #ffffff;
+    color: rgb(2, 2, 2);
+    padding: 8px 0px;
+    box-sizing: border-box;
+}
+a{
+    font-size: medium;
+}
+a:hover {
+    color: rgb(8, 8, 121);
+    text-decoration: underline;
+}
+h4{
+    font-weight: 450;
+    font-size: medium;
+
+}
+div h1 {
+    width: 100%;
+    background-color: rgb(227, 246, 253);
+    margin: 0,01 0,01 0,01 
+}
+div h2 {
+    margin: 20px 200px;
+    font-size: medium;
+    border: 2px;
+    background-color: black;
+    color: rgb(253, 253, 253);
+    padding: 8px 30px;
+    border-radius: 7px;
+    font-weight: 600;
+}
+
+.container {
+    margin: 20px 170px 0px;
+    text-align: left;
+    border: 2px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(2, 2, 2);
+    padding: 8px 30px;
+    border-radius: 7px;
+    font-weight: 600
+}
+.containerdados {
+    margin: 9px 200px ;
+    font-style: italic;
+    font-size: small;
+    text-align: left;
+    background-color: rgb(236, 239, 245);
+    color: rgb(0, 0, 0);
+    padding: 2px 8px;
+    border-radius: 2px;
+    font-weight: 300;
+    min-width: 10px;
+    border: 1px solid #686767;
+    box-sizing: border-box;
+}
+i {
+    font-size: smaller;
+}
